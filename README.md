@@ -23,3 +23,14 @@ This is a **responsive Product Landing Page** built using HTML, CSS, and embedde
    ```sh
    git clone https://github.com/your-username/product-landing-page.git
 
+2. **Navigate to the project folder**  
+   ```sh
+   cd product-landing-page
+
+3. **Open index.html in a browser**  
+
+- You can directly open the file in your browser.
+- Or use Live Server in VS Code for a better experience.
+
+4. **Live Demo**  
+- View the live demo (https://mahadi24t.github.io/Product_Landing_Page/)
