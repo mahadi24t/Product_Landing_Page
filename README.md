@@ -32,5 +32,22 @@ This is a **responsive Product Landing Page** built using HTML, CSS, and embedde
 - You can directly open the file in your browser.
 - Or use Live Server in VS Code for a better experience.
 
+## 📷 Screenshot
+
+Here are some screenshots of the Product Landing Page:
+
+![Screenshot 1](Screenshot_2025-01-31_22-24-05.png)
+
+
+
 4. **Live Demo**  
 - View the live demo (https://mahadi24t.github.io/Product_Landing_Page/)
+
+🚀 ***Future Enhancements***
+- Add animations for a smoother experience.
+- Improve accessibility for better usability.
+- Integrate backend to store email subscriptions.
+
+📝 ***License***
+
+- This project is open-source and free to use under the MIT License.
